@@ -83,7 +83,7 @@ This app uses **conditional logic** to decide how deep to analyze your essay, op
 - 🧩 **LangGraph** — Declarative AI workflows built with LangChain
 - 🧠 **Groq LLMs** — Ultra-fast, open-weight large language models
 - 🖼️ **Gradio** — Interactive UI for quick testing
-- 🔐 **python-dotenv** — Secure environment variable management
+
 
 ---
 
@@ -110,14 +110,6 @@ GROQ_API_KEY=your_groq_api_key_here
 python essay_grading_app.py        # For essay grading
 python text_analysis_app.py        # For text classification and summary
 ```
-
----
-
-## 🌐 Future Enhancements
-- 🔄 Add feedback suggestions per score
-- 🧾 Downloadable PDF reports
-- 🌍 Deploy on Streamlit Cloud / HuggingFace Spaces
-- 🧩 Support for additional NLP tasks (tone analysis, keyword extraction, etc.)
 
 ---
 
