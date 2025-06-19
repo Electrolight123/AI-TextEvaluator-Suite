@@ -18,7 +18,7 @@ AI-TextEvaluator-Suite/
 ├── essay_grading_app.py           # Essay evaluation app using LangGraph + Groq
 ├── text_analysis_app.py           # Text classification and summarization app
 ├── .env                           # Store your GROQ_API_KEY here
-├── requirements.txt               # Required Python dependencies
+├── requirement.txt               # Required Python dependencies
 ├── Assets/
 │   ├── Screenshot_1.png     # Screenshot of the Text Analysis app
 │   ├── Screenshot_2.png     # Screenshot of the Essay Grading app
