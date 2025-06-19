@@ -3,6 +3,7 @@
 **An advanced AI-driven application suite for automatic essay grading and intelligent text analysis.**
 
 This repository hosts two LangGraph-powered apps built with Gradio and Groq’s blazing-fast LLMs:
+
 - ✍️ **Essay Grading System** — Evaluate essays on Relevance, Grammar, Structure, and Depth with an aggregated Final Score.
 - 🧾 **Text Analysis Tool** — Classify text, extract key entities, and summarize content in seconds.
 
@@ -50,12 +51,12 @@ AI-TextEvaluator-Suite/
 ## 🖼️ Screenshots
 
 ### 📊 Text Analysis with LangGraph
-![Text Analysis Demo](Assets/text_analysis_demo.png)
+![Text Analysis Demo](Assets/Screenshot_1.png)
 
 ---
 
 ### 📝 Essay Grading System
-![Essay Grading Demo](Assets/essay_grading_demo.png)
+![Essay Grading Demo](Assets/Screenshot_2.png)
 
 ---
 
